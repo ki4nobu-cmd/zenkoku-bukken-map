@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T20:01:28.738Z",
-  "rawListingCount": 25335,
-  "scoredPropertyCount": 25333,
+  "generatedAt": "2026-06-25T20:39:32.334Z",
+  "rawListingCount": 25837,
+  "scoredPropertyCount": 25835,
   "benchmarkPointCount": 45245,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-25T19:58:05.646Z",
+  "scrapedAtMax": "2026-06-25T20:37:01.021Z",
   "prefectureCounts": {
     "北海道": 120,
     "青森県": 120,
@@ -45,26 +45,26 @@
     "香川県": 120,
     "愛媛県": 120,
     "高知県": 60,
-    "福岡県": 120,
-    "佐賀県": 119,
-    "長崎県": 120,
-    "熊本県": 120,
-    "大分県": 120,
+    "福岡県": 240,
+    "佐賀県": 216,
+    "長崎県": 184,
+    "熊本県": 237,
+    "大分県": 224,
     "宮崎県": 120,
     "鹿児島県": 120,
     "沖縄県": 88
   },
   "kindCounts": {
-    "land": 12260,
-    "house": 13073
+    "land": 12513,
+    "house": 13322
   },
   "ownershipCounts": {
-    "freehold": 25128,
+    "freehold": 25630,
     "leasehold": 172,
     "unknown": 33
   },
   "ownershipSourceCounts": {
-    "suumo": 25224,
+    "suumo": 25726,
     "homes": 0,
     "nifty": 76,
     "municipality": 0,
@@ -73,35 +73,35 @@
   },
   "rebuildPermissionCounts": {
     "yes": 93,
-    "no": 307,
-    "conditional": 1797,
-    "unknown": 23136
+    "no": 311,
+    "conditional": 1836,
+    "unknown": 23595
   },
   "rebuildSourceCounts": {
-    "suumo": 2177,
+    "suumo": 2220,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 23136
+    "unknown": 23595
   },
   "roadAccessCounts": {
-    "good": 7277,
-    "standard": 4537,
-    "caution": 2933,
-    "problem": 472,
-    "unknown": 10114
+    "good": 7517,
+    "standard": 4627,
+    "caution": 2988,
+    "problem": 479,
+    "unknown": 10224
   },
   "roadAccessSourceCounts": {
-    "suumo": 15135,
+    "suumo": 15527,
     "homes": 9,
     "nifty": 75,
     "municipality": 0,
     "registry": 0,
-    "unknown": 10114
+    "unknown": 10224
   },
   "sourceCounts": {
-    "suumo": 25248,
+    "suumo": 25750,
     "homes": 9,
     "nifty": 96
   },
