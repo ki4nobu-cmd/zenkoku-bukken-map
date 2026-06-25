@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T11:42:41.227Z",
-  "rawListingCount": 21091,
-  "scoredPropertyCount": 21089,
-  "benchmarkPointCount": 20377,
+  "generatedAt": "2026-06-25T12:30:59.369Z",
+  "rawListingCount": 21563,
+  "scoredPropertyCount": 21561,
+  "benchmarkPointCount": 25925,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-25T10:53:28.273Z",
+  "scrapedAtMax": "2026-06-25T12:28:14.974Z",
   "prefectureCounts": {
     "東京都": 1939,
     "神奈川県": 1907,
@@ -13,6 +13,10 @@
     "茨城県": 1723,
     "栃木県": 939,
     "群馬県": 855,
+    "岐阜県": 120,
+    "静岡県": 120,
+    "愛知県": 112,
+    "三重県": 120,
     "大阪府": 6599,
     "兵庫県": 836,
     "京都府": 874,
@@ -21,16 +25,16 @@
     "和歌山県": 365
   },
   "kindCounts": {
-    "land": 10111,
-    "house": 10978
+    "land": 10351,
+    "house": 11210
   },
   "ownershipCounts": {
-    "freehold": 20893,
-    "leasehold": 168,
+    "freehold": 21364,
+    "leasehold": 169,
     "unknown": 28
   },
   "ownershipSourceCounts": {
-    "suumo": 21002,
+    "suumo": 21474,
     "homes": 0,
     "nifty": 59,
     "municipality": 0,
@@ -38,36 +42,36 @@
     "unknown": 28
   },
   "rebuildPermissionCounts": {
-    "yes": 86,
-    "no": 267,
-    "conditional": 1459,
-    "unknown": 19277
+    "yes": 89,
+    "no": 272,
+    "conditional": 1482,
+    "unknown": 19718
   },
   "rebuildSourceCounts": {
-    "suumo": 1792,
+    "suumo": 1823,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 19277
+    "unknown": 19718
   },
   "roadAccessCounts": {
-    "good": 5028,
-    "standard": 3748,
-    "caution": 2315,
-    "problem": 387,
-    "unknown": 9611
+    "good": 5309,
+    "standard": 3841,
+    "caution": 2376,
+    "problem": 392,
+    "unknown": 9643
   },
   "roadAccessSourceCounts": {
-    "suumo": 11410,
+    "suumo": 11850,
     "homes": 9,
     "nifty": 59,
     "municipality": 0,
     "registry": 0,
-    "unknown": 9611
+    "unknown": 9643
   },
   "sourceCounts": {
-    "suumo": 21021,
+    "suumo": 21493,
     "homes": 9,
     "nifty": 78
   },
