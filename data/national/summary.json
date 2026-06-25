@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-06-25T11:42:41.227Z",
+  "rawListingCount": 21091,
+  "scoredPropertyCount": 21089,
+  "benchmarkPointCount": 20377,
+  "scrapedAtMin": "2026-06-16T10:08:23.930Z",
+  "scrapedAtMax": "2026-06-25T10:53:28.273Z",
+  "prefectureCounts": {
+    "東京都": 1939,
+    "神奈川県": 1907,
+    "埼玉県": 1850,
+    "千葉県": 1733,
+    "茨城県": 1723,
+    "栃木県": 939,
+    "群馬県": 855,
+    "大阪府": 6599,
+    "兵庫県": 836,
+    "京都府": 874,
+    "滋賀県": 802,
+    "奈良県": 667,
+    "和歌山県": 365
+  },
+  "kindCounts": {
+    "land": 10111,
+    "house": 10978
+  },
+  "ownershipCounts": {
+    "freehold": 20893,
+    "leasehold": 168,
+    "unknown": 28
+  },
+  "ownershipSourceCounts": {
+    "suumo": 21002,
+    "homes": 0,
+    "nifty": 59,
+    "municipality": 0,
+    "registry": 0,
+    "unknown": 28
+  },
+  "rebuildPermissionCounts": {
+    "yes": 86,
+    "no": 267,
+    "conditional": 1459,
+    "unknown": 19277
+  },
+  "rebuildSourceCounts": {
+    "suumo": 1792,
+    "homes": 2,
+    "nifty": 18,
+    "municipality": 0,
+    "registry": 0,
+    "unknown": 19277
+  },
+  "roadAccessCounts": {
+    "good": 5028,
+    "standard": 3748,
+    "caution": 2315,
+    "problem": 387,
+    "unknown": 9611
+  },
+  "roadAccessSourceCounts": {
+    "suumo": 11410,
+    "homes": 9,
+    "nifty": 59,
+    "municipality": 0,
+    "registry": 0,
+    "unknown": 9611
+  },
+  "sourceCounts": {
+    "suumo": 21021,
+    "homes": 9,
+    "nifty": 78
+  },
+  "mergedSourceCount": 19,
+  "duplicateRawListingCount": 0
+}
