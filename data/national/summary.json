@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-25T23:37:03.562Z",
-  "rawListingCount": 27956,
-  "scoredPropertyCount": 27953,
+  "generatedAt": "2026-06-26T00:07:56.325Z",
+  "rawListingCount": 28345,
+  "scoredPropertyCount": 28333,
   "benchmarkPointCount": 45245,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-25T23:35:42.518Z",
+  "scrapedAtMax": "2026-06-26T00:05:47.831Z",
   "prefectureCounts": {
     "北海道": 240,
-    "青森県": 238,
+    "青森県": 239,
     "岩手県": 139,
     "宮城県": 208,
     "秋田県": 218,
@@ -26,10 +26,10 @@
     "福井県": 143,
     "山梨県": 139,
     "長野県": 225,
-    "岐阜県": 210,
-    "静岡県": 239,
-    "愛知県": 231,
-    "三重県": 240,
+    "岐阜県": 291,
+    "静岡県": 327,
+    "愛知県": 324,
+    "三重県": 357,
     "大阪府": 6599,
     "兵庫県": 836,
     "京都府": 874,
@@ -55,16 +55,16 @@
     "沖縄県": 179
   },
   "kindCounts": {
-    "land": 13574,
-    "house": 14379
+    "land": 13783,
+    "house": 14550
   },
   "ownershipCounts": {
-    "freehold": 27748,
-    "leasehold": 172,
+    "freehold": 28127,
+    "leasehold": 173,
     "unknown": 33
   },
   "ownershipSourceCounts": {
-    "suumo": 27844,
+    "suumo": 28224,
     "homes": 0,
     "nifty": 76,
     "municipality": 0,
@@ -74,34 +74,34 @@
   "rebuildPermissionCounts": {
     "yes": 100,
     "no": 322,
-    "conditional": 2020,
-    "unknown": 25511
+    "conditional": 2048,
+    "unknown": 25863
   },
   "rebuildSourceCounts": {
-    "suumo": 2422,
+    "suumo": 2450,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 25511
+    "unknown": 25863
   },
   "roadAccessCounts": {
-    "good": 8689,
-    "standard": 4985,
-    "caution": 3292,
-    "problem": 512,
-    "unknown": 10475
+    "good": 8926,
+    "standard": 5048,
+    "caution": 3338,
+    "problem": 515,
+    "unknown": 10506
   },
   "roadAccessSourceCounts": {
-    "suumo": 17394,
+    "suumo": 17743,
     "homes": 9,
     "nifty": 75,
     "municipality": 0,
     "registry": 0,
-    "unknown": 10475
+    "unknown": 10506
   },
   "sourceCounts": {
-    "suumo": 27868,
+    "suumo": 28248,
     "homes": 9,
     "nifty": 96
   },
