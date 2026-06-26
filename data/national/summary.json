@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-26T06:23:12.807Z",
-  "rawListingCount": 30749,
-  "scoredPropertyCount": 30747,
+  "generatedAt": "2026-06-26T10:51:29.020Z",
+  "rawListingCount": 42771,
+  "scoredPropertyCount": 42768,
   "benchmarkPointCount": 45245,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-26T06:22:21.404Z",
+  "scrapedAtMax": "2026-06-26T10:51:05.981Z",
   "prefectureCounts": {
     "北海道": 360,
     "青森県": 332,
@@ -30,7 +30,7 @@
     "静岡県": 328,
     "愛知県": 330,
     "三重県": 360,
-    "大阪府": 6599,
+    "大阪府": 18620,
     "兵庫県": 836,
     "京都府": 874,
     "滋賀県": 802,
@@ -55,56 +55,56 @@
     "沖縄県": 281
   },
   "kindCounts": {
-    "land": 15003,
-    "house": 15744
+    "land": 19293,
+    "house": 23475
   },
   "ownershipCounts": {
-    "freehold": 30538,
-    "leasehold": 176,
-    "unknown": 33
+    "freehold": 42541,
+    "leasehold": 195,
+    "unknown": 32
   },
   "ownershipSourceCounts": {
-    "suumo": 30638,
+    "suumo": 42660,
     "homes": 0,
     "nifty": 76,
     "municipality": 0,
     "registry": 0,
-    "unknown": 33
+    "unknown": 32
   },
   "rebuildPermissionCounts": {
-    "yes": 101,
-    "no": 332,
-    "conditional": 2232,
-    "unknown": 28082
+    "yes": 120,
+    "no": 429,
+    "conditional": 2979,
+    "unknown": 39240
   },
   "rebuildSourceCounts": {
-    "suumo": 2645,
+    "suumo": 3508,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 28082
+    "unknown": 39240
   },
   "roadAccessCounts": {
-    "good": 10243,
-    "standard": 5497,
-    "caution": 3613,
-    "problem": 542,
-    "unknown": 10852
+    "good": 16568,
+    "standard": 9180,
+    "caution": 4610,
+    "problem": 738,
+    "unknown": 11672
   },
   "roadAccessSourceCounts": {
-    "suumo": 19811,
+    "suumo": 31012,
     "homes": 9,
     "nifty": 75,
     "municipality": 0,
     "registry": 0,
-    "unknown": 10852
+    "unknown": 11672
   },
   "sourceCounts": {
-    "suumo": 30662,
+    "suumo": 42684,
     "homes": 9,
     "nifty": 96
   },
-  "mergedSourceCount": 20,
-  "duplicateRawListingCount": 0
+  "mergedSourceCount": 21,
+  "duplicateRawListingCount": 1
 }
