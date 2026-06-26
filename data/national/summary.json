@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-26T01:42:58.306Z",
-  "rawListingCount": 29542,
-  "scoredPropertyCount": 29539,
+  "generatedAt": "2026-06-26T02:35:30.970Z",
+  "rawListingCount": 30320,
+  "scoredPropertyCount": 30291,
   "benchmarkPointCount": 45245,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-26T01:40:03.407Z",
+  "scrapedAtMax": "2026-06-26T02:31:36.121Z",
   "prefectureCounts": {
     "北海道": 360,
     "青森県": 239,
@@ -24,7 +24,7 @@
     "富山県": 263,
     "石川県": 223,
     "福井県": 214,
-    "山梨県": 189,
+    "山梨県": 190,
     "長野県": 327,
     "岐阜県": 291,
     "静岡県": 328,
@@ -36,15 +36,15 @@
     "滋賀県": 802,
     "奈良県": 667,
     "和歌山県": 365,
-    "鳥取県": 206,
-    "島根県": 162,
-    "岡山県": 240,
-    "広島県": 240,
-    "山口県": 213,
-    "徳島県": 190,
-    "香川県": 209,
-    "愛媛県": 140,
-    "高知県": 124,
+    "鳥取県": 220,
+    "島根県": 212,
+    "岡山県": 355,
+    "広島県": 350,
+    "山口県": 327,
+    "徳島県": 270,
+    "香川県": 289,
+    "愛媛県": 258,
+    "高知県": 194,
     "福岡県": 360,
     "佐賀県": 254,
     "長崎県": 248,
@@ -55,16 +55,16 @@
     "沖縄県": 179
   },
   "kindCounts": {
-    "land": 14398,
-    "house": 15141
+    "land": 14773,
+    "house": 15518
   },
   "ownershipCounts": {
-    "freehold": 29331,
-    "leasehold": 175,
+    "freehold": 30082,
+    "leasehold": 176,
     "unknown": 33
   },
   "ownershipSourceCounts": {
-    "suumo": 29430,
+    "suumo": 30182,
     "homes": 0,
     "nifty": 76,
     "municipality": 0,
@@ -73,35 +73,35 @@
   },
   "rebuildPermissionCounts": {
     "yes": 101,
-    "no": 329,
-    "conditional": 2142,
-    "unknown": 26967
+    "no": 331,
+    "conditional": 2204,
+    "unknown": 27655
   },
   "rebuildSourceCounts": {
-    "suumo": 2552,
+    "suumo": 2616,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 26967
+    "unknown": 27655
   },
   "roadAccessCounts": {
-    "good": 9637,
-    "standard": 5255,
-    "caution": 3473,
-    "problem": 529,
-    "unknown": 10645
+    "good": 9967,
+    "standard": 5423,
+    "caution": 3575,
+    "problem": 536,
+    "unknown": 10790
   },
   "roadAccessSourceCounts": {
-    "suumo": 18810,
+    "suumo": 19417,
     "homes": 9,
     "nifty": 75,
     "municipality": 0,
     "registry": 0,
-    "unknown": 10645
+    "unknown": 10790
   },
   "sourceCounts": {
-    "suumo": 29454,
+    "suumo": 30206,
     "homes": 9,
     "nifty": 96
   },
