@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-26T10:51:29.020Z",
-  "rawListingCount": 42771,
-  "scoredPropertyCount": 42768,
+  "generatedAt": "2026-06-26T18:01:02.826Z",
+  "rawListingCount": 56327,
+  "scoredPropertyCount": 56288,
   "benchmarkPointCount": 45245,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-26T10:51:05.981Z",
+  "scrapedAtMax": "2026-06-26T18:00:48.271Z",
   "prefectureCounts": {
     "北海道": 360,
     "青森県": 332,
@@ -13,7 +13,7 @@
     "秋田県": 238,
     "山形県": 309,
     "福島県": 340,
-    "東京都": 1939,
+    "東京都": 15459,
     "神奈川県": 1907,
     "埼玉県": 1850,
     "千葉県": 1733,
@@ -55,56 +55,56 @@
     "沖縄県": 281
   },
   "kindCounts": {
-    "land": 19293,
-    "house": 23475
+    "land": 25986,
+    "house": 30302
   },
   "ownershipCounts": {
-    "freehold": 42541,
-    "leasehold": 195,
-    "unknown": 32
+    "freehold": 55732,
+    "leasehold": 463,
+    "unknown": 93
   },
   "ownershipSourceCounts": {
-    "suumo": 42660,
+    "suumo": 56119,
     "homes": 0,
     "nifty": 76,
     "municipality": 0,
     "registry": 0,
-    "unknown": 32
+    "unknown": 93
   },
   "rebuildPermissionCounts": {
-    "yes": 120,
-    "no": 429,
-    "conditional": 2979,
-    "unknown": 39240
+    "yes": 156,
+    "no": 665,
+    "conditional": 4208,
+    "unknown": 51259
   },
   "rebuildSourceCounts": {
-    "suumo": 3508,
+    "suumo": 5009,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 39240
+    "unknown": 51259
   },
   "roadAccessCounts": {
-    "good": 16568,
-    "standard": 9180,
-    "caution": 4610,
-    "problem": 738,
-    "unknown": 11672
+    "good": 23027,
+    "standard": 13143,
+    "caution": 6469,
+    "problem": 1123,
+    "unknown": 12526
   },
   "roadAccessSourceCounts": {
-    "suumo": 31012,
+    "suumo": 43678,
     "homes": 9,
     "nifty": 75,
     "municipality": 0,
     "registry": 0,
-    "unknown": 11672
+    "unknown": 12526
   },
   "sourceCounts": {
-    "suumo": 42684,
+    "suumo": 56240,
     "homes": 9,
     "nifty": 96
   },
-  "mergedSourceCount": 21,
-  "duplicateRawListingCount": 1
+  "mergedSourceCount": 57,
+  "duplicateRawListingCount": 37
 }
