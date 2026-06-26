@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-26T18:01:02.826Z",
-  "rawListingCount": 56327,
-  "scoredPropertyCount": 56288,
+  "generatedAt": "2026-06-26T22:52:40.487Z",
+  "rawListingCount": 69654,
+  "scoredPropertyCount": 69614,
   "benchmarkPointCount": 45245,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-26T18:00:48.271Z",
+  "scrapedAtMax": "2026-06-26T21:49:46.905Z",
   "prefectureCounts": {
     "北海道": 360,
     "青森県": 332,
@@ -28,7 +28,7 @@
     "長野県": 327,
     "岐阜県": 291,
     "静岡県": 328,
-    "愛知県": 330,
+    "愛知県": 13656,
     "三重県": 360,
     "大阪府": 18620,
     "兵庫県": 836,
@@ -55,53 +55,53 @@
     "沖縄県": 281
   },
   "kindCounts": {
-    "land": 25986,
-    "house": 30302
+    "land": 33542,
+    "house": 36072
   },
   "ownershipCounts": {
-    "freehold": 55732,
-    "leasehold": 463,
-    "unknown": 93
+    "freehold": 69035,
+    "leasehold": 485,
+    "unknown": 94
   },
   "ownershipSourceCounts": {
-    "suumo": 56119,
+    "suumo": 69444,
     "homes": 0,
     "nifty": 76,
     "municipality": 0,
     "registry": 0,
-    "unknown": 93
+    "unknown": 94
   },
   "rebuildPermissionCounts": {
-    "yes": 156,
-    "no": 665,
-    "conditional": 4208,
-    "unknown": 51259
+    "yes": 320,
+    "no": 702,
+    "conditional": 5124,
+    "unknown": 63468
   },
   "rebuildSourceCounts": {
-    "suumo": 5009,
+    "suumo": 6126,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 51259
+    "unknown": 63468
   },
   "roadAccessCounts": {
-    "good": 23027,
-    "standard": 13143,
-    "caution": 6469,
-    "problem": 1123,
-    "unknown": 12526
+    "good": 32401,
+    "standard": 14925,
+    "caution": 7929,
+    "problem": 1253,
+    "unknown": 13106
   },
   "roadAccessSourceCounts": {
-    "suumo": 43678,
+    "suumo": 56424,
     "homes": 9,
     "nifty": 75,
     "municipality": 0,
     "registry": 0,
-    "unknown": 12526
+    "unknown": 13106
   },
   "sourceCounts": {
-    "suumo": 56240,
+    "suumo": 69566,
     "homes": 9,
     "nifty": 96
   },
