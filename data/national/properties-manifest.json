@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-26T22:52:40.487Z",
-  "totalCount": 69614,
+  "generatedAt": "2026-06-27T05:53:37.205Z",
+  "totalCount": 81343,
   "chunkSize": 2000,
   "chunks": [
     {
@@ -72,7 +72,7 @@
         "栃木県",
         "群馬県"
       ],
-      "byteLength": 3748144
+      "byteLength": 3748110
     },
     {
       "path": "properties-chunks/properties-006.json",
@@ -86,7 +86,7 @@
         "千葉県",
         "茨城県"
       ],
-      "byteLength": 3751486
+      "byteLength": 3751185
     },
     {
       "path": "properties-chunks/properties-007.json",
@@ -100,7 +100,7 @@
         "栃木県",
         "群馬県"
       ],
-      "byteLength": 3728489
+      "byteLength": 3728477
     },
     {
       "path": "properties-chunks/properties-008.json",
@@ -114,7 +114,7 @@
         "埼玉県",
         "千葉県"
       ],
-      "byteLength": 3723613
+      "byteLength": 3723656
     },
     {
       "path": "properties-chunks/properties-009.json",
@@ -126,7 +126,7 @@
         "埼玉県",
         "千葉県"
       ],
-      "byteLength": 3720262
+      "byteLength": 3720249
     },
     {
       "path": "properties-chunks/properties-010.json",
@@ -147,7 +147,7 @@
         "熊本県",
         "大分県"
       ],
-      "byteLength": 3717141
+      "byteLength": 3717130
     },
     {
       "path": "properties-chunks/properties-011.json",
@@ -444,11 +444,60 @@
     },
     {
       "path": "properties-chunks/properties-034.json",
-      "count": 1614,
+      "count": 2000,
       "prefectures": [
-        "愛知県"
+        "愛知県",
+        "神奈川県"
       ],
-      "byteLength": 3005736
+      "byteLength": 3727536
+    },
+    {
+      "path": "properties-chunks/properties-035.json",
+      "count": 2000,
+      "prefectures": [
+        "神奈川県"
+      ],
+      "byteLength": 3703550
+    },
+    {
+      "path": "properties-chunks/properties-036.json",
+      "count": 2000,
+      "prefectures": [
+        "神奈川県"
+      ],
+      "byteLength": 3658045
+    },
+    {
+      "path": "properties-chunks/properties-037.json",
+      "count": 2000,
+      "prefectures": [
+        "神奈川県"
+      ],
+      "byteLength": 3723130
+    },
+    {
+      "path": "properties-chunks/properties-038.json",
+      "count": 2000,
+      "prefectures": [
+        "神奈川県"
+      ],
+      "byteLength": 3714151
+    },
+    {
+      "path": "properties-chunks/properties-039.json",
+      "count": 2000,
+      "prefectures": [
+        "神奈川県"
+      ],
+      "byteLength": 3671845
+    },
+    {
+      "path": "properties-chunks/properties-040.json",
+      "count": 1343,
+      "prefectures": [
+        "神奈川県"
+      ],
+      "byteLength": 2464788
     }
   ]
 }
