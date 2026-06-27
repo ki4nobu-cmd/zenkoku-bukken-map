@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-27T05:53:37.205Z",
-  "rawListingCount": 81383,
-  "scoredPropertyCount": 81343,
+  "generatedAt": "2026-06-27T08:48:27.157Z",
+  "rawListingCount": 91392,
+  "scoredPropertyCount": 91352,
   "benchmarkPointCount": 45245,
   "scrapedAtMin": "2026-06-16T10:08:23.930Z",
-  "scrapedAtMax": "2026-06-27T05:39:23.572Z",
+  "scrapedAtMax": "2026-06-27T08:33:55.884Z",
   "prefectureCounts": {
     "北海道": 360,
     "青森県": 332,
@@ -15,7 +15,7 @@
     "福島県": 340,
     "東京都": 15459,
     "神奈川県": 13636,
-    "埼玉県": 1850,
+    "埼玉県": 11859,
     "千葉県": 1733,
     "茨城県": 1723,
     "栃木県": 939,
@@ -55,16 +55,16 @@
     "沖縄県": 281
   },
   "kindCounts": {
-    "land": 38412,
-    "house": 42931
+    "land": 42449,
+    "house": 48903
   },
   "ownershipCounts": {
-    "freehold": 80690,
-    "leasehold": 533,
+    "freehold": 90687,
+    "leasehold": 545,
     "unknown": 120
   },
   "ownershipSourceCounts": {
-    "suumo": 81147,
+    "suumo": 91156,
     "homes": 0,
     "nifty": 76,
     "municipality": 0,
@@ -72,36 +72,36 @@
     "unknown": 120
   },
   "rebuildPermissionCounts": {
-    "yes": 357,
-    "no": 770,
-    "conditional": 5877,
-    "unknown": 74339
+    "yes": 431,
+    "no": 802,
+    "conditional": 6171,
+    "unknown": 83948
   },
   "rebuildSourceCounts": {
-    "suumo": 6984,
+    "suumo": 7384,
     "homes": 2,
     "nifty": 18,
     "municipality": 0,
     "registry": 0,
-    "unknown": 74339
+    "unknown": 83948
   },
   "roadAccessCounts": {
-    "good": 38230,
-    "standard": 18542,
-    "caution": 8973,
-    "problem": 1460,
-    "unknown": 14138
+    "good": 43801,
+    "standard": 21789,
+    "caution": 9494,
+    "problem": 1574,
+    "unknown": 14694
   },
   "roadAccessSourceCounts": {
-    "suumo": 67121,
+    "suumo": 76574,
     "homes": 9,
     "nifty": 75,
     "municipality": 0,
     "registry": 0,
-    "unknown": 14138
+    "unknown": 14694
   },
   "sourceCounts": {
-    "suumo": 81295,
+    "suumo": 91304,
     "homes": 9,
     "nifty": 96
   },
